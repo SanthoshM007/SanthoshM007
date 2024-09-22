@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI and ML Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SanthoshM007](https://github.com/SanthoshM007)
+- 👨‍💻 All of my projects are available at [[https://github.com/SanthoshM007](https://github.com/SanthoshM007](https://github.com/SanthoshM007?tab=repositories))
 
 - 📫 How to reach me **sss999msd@gmail.com**
 
