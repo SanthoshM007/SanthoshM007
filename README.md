@@ -1,43 +1,31 @@
+## Hi there 👋 It's me Santhosh M
 
-# Hi there 👋, I'm Santhosh M!
-Final Year BE CSE Student | Aspiring Full-Stack Developer | Marathon Runner 🏃‍♂️
+Software Engineer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [LeetCode portfolio](https://leetcode.com/u/sss999msd/)                                                 
+- 🌱 I’m currently learning DSA and Spring Boot
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santhosh-m-52a226270)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I know Cinematic Acting Performance.
 
----
 
-## 🌟 Career Objective
-To contribute effectively to a dynamic team by applying my theoretical knowledge and strong analytical skills in a challenging professional environment.
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 
----
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />  
 
-## 🛠️ Skills
-- **Languages**: ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![Java](https://img.shields.io/badge/Java-Advanced-brightgreen)
-- **Frameworks**: ![Spring](https://img.shields.io/badge/Spring-Boot-brightgreen)
-- **Database**: ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
 
----
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-## 📊 GitHub Stats
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanthoshM007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshM007&layout=compact&theme=radical)
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
----
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
-## 💻 Projects
-- [**Spring Boot Chat Application**](https://github.com/SanthoshM007/spring-boot-chat-app)  
-  A real-time communication platform using Spring Boot, WebSocket, and H2 database.
-- [**Toxicity Detection Classifier**](https://github.com/SanthoshM007/Toxicity_Classifier)  
-  Machine learning project for classifying text as "Toxic" or "Non-Toxic."
-
----
-
-## 📜 Certifications
-- [SQL - DataCamp](https://example.com)
-- [Python - DataCamp](https://example.com)
-- [Spring Framework](https://example.com)
-
----
-
-## 📧 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh-blue)](https://www.linkedin.com/in/santhosh-m-52a226270)
-[![GitHub](https://img.shields.io/badge/GitHub-Santhosh007-black)](https://github.com/SanthoshM007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Santhosh-orange)](https://leetcode.com/u/sss999msd/)
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
