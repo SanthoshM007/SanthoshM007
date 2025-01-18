@@ -25,12 +25,15 @@ Software Engineer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sss999msd?theme=dark&font=changa)
 
-# My Certifications
 
-## Python
-![Intermediate Python](https://drive.google.com/file/d/15yJgL6Nf7xleWUT7FnXoCy9q5FAQ_5Ta/view?usp=sharing)
 
-## DevOps
-![DevOps](https://media.licdn.com/dms/image/v2/D5622AQEFZMaQMvYYIA/feedshare-shrink_800/feedshare-shrink_800/0/1726762040640?e=1740009600&v=beta&t=rQv-I329Mrq3q7ypExZaJ9Ydf1cSbHSGm2RXuDhlZEc)
+# 🌟 Achievement🌟
+
+## 🎓 Elite Grader in NPTEL Programming in Java - Top 5% Achiever 🏅  
+![NPTEL Certification in Java](https://media.licdn.com/dms/image/v2/D5622AQHI7Z_HjHDI9w/feedshare-shrink_800/feedshare-shrink_800/0/1732719685540?e=1740009600&v=beta&t=G8WxsiE2NpJC6VyfmMhL8qhnaSEaTtbjSkoOmxS6RUY)
+
+
+
+
  
 
