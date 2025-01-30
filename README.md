@@ -2,7 +2,7 @@
 
 Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Resume](https://drive.google.com/file/d/13RBhXq0v__q3rV2AbjmgMV4dyaK0G6ml/view?usp=sharing)                                                
+- 🔭 Here's my [Resume](https://drive.google.com/file/d/1qjbT02Yc_QzuOgXVSjKtN6eejpJ3N9Ez/view?usp=sharing)                                                
 - 🌱 I’m currently learning DSA and Spring Boot
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Placements in FAANG
