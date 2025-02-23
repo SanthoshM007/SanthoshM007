@@ -30,7 +30,8 @@ Software Engineer
 # 🌟 Achievement🌟
 
 ## 🎓 Elite Grader in NPTEL Programming in Java - Top 5% Achiever 🏅  
-![NPTEL Certification in Java](https://drive.google.com/file/d/1G9maqz6UAdgkx3nBiFd8T8PV9Q1KqrcI/view?usp=sharing)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sss999msd?theme=dark&font=changa)
+
 
 
 
